@@ -122,7 +122,7 @@ function header(){
   }).join("");
   return '<div class="demo-bar">中央塗建様へのご提案用デモサイトです(写真・文章は今のホームページからお借りしています)</div>'+
   '<header class="site-head"><div class="wrap head-in">'+
-    '<a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span><span class="brand-text"><b>中央塗建</b><small>杉並区の外壁塗装・屋根塗装・防水工事</small></span></a>'+
+    '<a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">中</span><span class="brand-text"><b>中央塗建株式会社</b><small>杉並区の外壁塗装・屋根塗装・防水工事</small></span></a>'+
     '<a class="head-tel" href="tel:'+CO.telLink+'"><small>無料のご相談・お見積り '+CO.hours+'</small><b>'+CO.tel+'</b></a>'+
     '<button class="menu-btn" aria-expanded="false" aria-controls="gnav">メニュー</button>'+
   '</div><nav id="gnav" class="gnav"><div class="wrap">'+links+'</div></nav></header>';
